@@ -42,7 +42,7 @@ A Issue #1 vai direto na `main`, porque o repositório ainda não existe. Da #2 
 
 Marque `[x]` só quando o PR da Issue estiver com merge.
 
-- [ ] **#1 Repositório e estrutura.** Criar a pasta, o Git e o repositório no GitHub.
+- [X] **#1 Repositório e estrutura.** Criar a pasta, o Git e o repositório no GitHub.
   - Pronto quando: o repositório `portfolio` existe no GitHub, **público**, com a branch `main`; tem este README e um `.gitignore` (mesmo vazio, com uma linha no README dizendo por quê); as pastas `css/`, `img/` e `receitas/` existem no seu computador (o Git só envia pasta que tiver arquivo dentro, então elas aparecem no GitHub a partir da #2).
 
 - [ ] **#2 Trazer as páginas antigas.** Branch `feat/paginas-antigas`.
@@ -79,3 +79,5 @@ Marque `[x]` só quando o PR da Issue estiver com merge.
 ## Notas do projeto
 
 *(Preencha ao longo da semana: o que deu certo, onde travou, o que mudaria. Na Issue #4, a justificativa do formato da imagem.)*
+
+.gitignore está vazio, pois ainda não existem arquivos no projeto e também nada a esconder.
